@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"pacific rim",
+        "tel":"0904326326",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "name":"avenger",
+        "tel":"0908326326",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"captain",
+        "tel":"0904986326",
+        "Permission":3
+    },
+    {
+        "id":4,
+        "name":"iron man",
+        "tel":"0904986326",
+        "Permission":3
+    },
+    {
+        "id":5,
+        "name":"spiderman",
+        "tel":"0978986326",
+        "Permission":4
+    },
+    {
+        "id":6,
+        "name":"spidermanchild",
+        "tel":"0878986326",
+        "Permission":1
+    }
+]
